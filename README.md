@@ -3,7 +3,7 @@
 An AI solver for the 8-puzzle game, generalised to puzzle sizes of n-dimensions.
 
 <p align="left">
-  <img src="./example.png" alt="Size Limit example"
+  <img src="./example.png" alt="8-puzzle solver example"
        width="300">
 </p>
 
