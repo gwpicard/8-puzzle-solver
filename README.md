@@ -25,7 +25,7 @@ To solve a puzzle board configuration with the AI solver, run the `main.py` file
 python3 main.py -n [n] -b [board] [-p]
 ```
 
-where `-n` is the size of the puzzle (e.g. a 3x3 puzzle has size 3), `-b` is the starting scrambled board configuration as a list of lists (e.g. `[[5,7,6],[2,4,3],[8,1,0]]`), and [`-p`] is an optional parameter if you want the program to print out the move sequence to reach the solved puzzle. The program will return an error if the board is not configured properly.
+where `-n` is the size of the puzzle (e.g. a 3x3 puzzle has size 3), `-b` is the starting scrambled board configuration as a list of lists (e.g. `[[5,7,6],[2,4,3],[8,1,0]]`), and `[-p]` is an optional parameter if you want the program to print out the move sequence to reach the solved puzzle. The program will return an error if the board is not configured properly.
 
 **Run tests**
 
