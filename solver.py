@@ -207,6 +207,6 @@ def solvePuzzle(n, state, heuristic, prnt):
                 print("Solved \n")
 
         print("Number of steps to reach goal: %d \n"%steps)
-        print("Maximum frontier size: %d"%frontierSize)
+        print("Maximum frontier size: %d\n"%frontierSize)
 
     return steps, frontierSize, err

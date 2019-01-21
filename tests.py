@@ -1,7 +1,6 @@
 import numpy as np
 from queue import PriorityQueue
 import pickle
-import time
 import unittest
 from puzzle import PuzzleNode
 from solver import heuristic_memoization, h1, h2, solvePuzzle
